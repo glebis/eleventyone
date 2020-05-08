@@ -4,7 +4,7 @@ subtitle: Курс практики осознанности (медитации
 layout: layouts/base.njk
 ---
 
-<img src="images/cover.jpg">
+<img src="images/cover.jpg" style="height: auto; max-width: 100%">
 
 ## С какими запросами мы работаем на курсе?
 
