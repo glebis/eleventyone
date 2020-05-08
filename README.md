@@ -1,6 +1,6 @@
 # Course.usherenow.ru
 
-Based on Eleventyone
+Based on Eleventyone. Modified by Gleb Kalinin. Images © Gleb Kalinin
 
 # EleventyOne
 
