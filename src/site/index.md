@@ -50,7 +50,7 @@ layout: layouts/base.njk
 
 Если вы проводите курс с партнером или другом, дайте нам знать, мы сделаем скидку.
 
-Кстати, курс можно подарить близкому, другу, коллеге 
+Кстати, курс можно подарить близкому, другу, коллеге. 
 
 ## Почему медитация в мини-группе?
 
@@ -90,6 +90,12 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
 </ul>
  -->
 
+## Остались вопросы?
+
+Напишите нам в Whatsapp <nobr>+7 965 161 37 84</nobr> или Telegram <a href="https://teleg.run/habite01">@habite01</a>.
+
+ <script type="text/javascript" src="https://form.jotform.com/jsform/201284292921049"></script>
+
 ## Публикации с нашим участием
 
 * VC.ru: <a href="https://vc.ru/hr/89452-meditaciya-v-ofise-sovety-ot-praktikuyushchih-sotrudnikov">Медитация в офисе. Советы от практикующих сотрудников</a>
@@ -107,4 +113,3 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Pzmqz4dP0jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/201284292921049"></script>
