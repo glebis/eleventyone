@@ -1,6 +1,6 @@
 ---
 title: Будь. Здесь. Сейчас
-subtitle: Курс практики осознанности (медитации) для всех желающих, новичков и продолжающих практиков. Курс для обретения устойчивости и сил во время перемен.
+subtitle: Курс практики осознанности (медитации) для всех желающих, новичков и продолжающих практиков. Курс для обретения устойчивости и сил во время перемен.
 layout: layouts/base.njk
 ---
 
@@ -32,9 +32,9 @@ layout: layouts/base.njk
 * Присутствовать в чате группы — активность на ваше усмотрение.
 * Специального места не требуется, медитировать можно на стуле, а также подушке или скамейке для медитации
 
-## Что вы можете получить по итогам курса?
+## Что вы можете получить по итогам курса?
 
-* Узнаете, какой тип медитации вам больше всего подходит в тот или иной период жизни.
+* Узнаете, какой тип медитации вам больше всего подходит в тот или иной период жизни.
 * Научитесь больше присутствовать в моменте
 * Научитесь замечать и ценить приятные моменты в вашей жизни
 * Поработаете, с тем, что для вас имеет значение
@@ -42,13 +42,13 @@ layout: layouts/base.njk
 
 ## Какая стоимость курса?
 
-Оплата до 8 мая (включительно) 2020 — 4000 рублей за курс.
+Оплата до 9 мая (включительно) 2020 — 4000 рублей за курс.
 
-Оплата с 9 мая 2020 — 5000 рублей за курс.
+Оплата с 10 мая 2020 — 5000 рублей за курс.
 
-Перевод на Тинькофф или Сбербанк +7 965 161 37 84.
+Перевод на Тинькофф или Сбербанк <nobr>+7 965 161 37 84</nobr>.
 
-Если вы проводите курс с партнером или другом, дайте нам знать, мы сделаем скидку.
+Если вы проводите курс с партнером или другом, дайте нам знать, мы сделаем скидку.
 
 Кстати, курс можно подарить близкому, другу, коллеге 
 
@@ -89,6 +89,21 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
 {%- endfor -%}
 </ul>
  -->
+
+## Публикации с нашим участием
+
+* VC.ru: <a href="https://vc.ru/hr/89452-meditaciya-v-ofise-sovety-ot-praktikuyushchih-sotrudnikov">Медитация в офисе. Советы от практикующих сотрудников</a>
+* Forbes: <a href="https://www.forbes.ru/forbeslife/375843-mayndfulnes-i-praktika-vnimatelnosti-ili-kak-ispolzuyut-meditaciyu-v-kompaniyah">Майндфулнес и практика внимательности, или Как используют медитацию в компаниях</a>
+* Rb.ru: <a href="https://rb.ru/opinion/kak-ostavatsya-bodrym/">Как оставаться бодрым в течение дня? Советы для предпринимателей</a>
+* Afisha.Daily: <a href="https://daily.afisha.ru/news/35566-my-zdes-seychas-v-seti-proydet-marafon-meditacii-dlya-teh-kto-mnogo-bespokoitsya-izza-epidemii/">«Мы. Здесь. Сейчас»: в сети пройдет марафон медитации для тех, кто много беспокоится из‑за пандемии
+</a>
+* Reminder: <a href="https://reminder.media/longread/meditatsiya-chto-izvestno-nauke-i-kak-praktikovat">Медитация: что известно науке и как практиковать</a>
+* Challenger: <a href="https://the-challenger.ru/zdorove/novosti-zdrove/ozon-travel-provedyot-meditatsiyu-v-moskva-siti/">В Ozon.travel расскажут о практиках осознанности, которые помогают офисным сотрудникам бороться со стрессом, и проведут медитацию</a>
+
+
+
+## Видео: 
+
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Pzmqz4dP0jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
