@@ -116,6 +116,7 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
 Напишите нам в Whatsapp <nobr>+7 965 161 37 84</nobr> или Telegram <a href="https://teleg.run/habite01">@habite01</a>.
 
 <i id="signup"></i>
+## Регистрация на курс
  <script type="text/javascript" src="https://form.jotform.com/jsform/201284292921049"></script>
 
 ## Публикации с нашим участием
